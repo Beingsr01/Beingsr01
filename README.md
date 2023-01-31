@@ -1,4 +1,4 @@
-![logo](https://github.com/Beingsr01/Beingsr01/blob/main/Tech%20Rev%C4%B1ew%20(1).png)
+![logo](https://github.com/Beingsr01/Beingsr01/blob/main/Tech%20Rev%C4%B1ew%20(1).gif)
 <h1 align="center">Hi 👋, I'm Saurav Rathi</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
